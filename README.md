@@ -74,3 +74,7 @@ in `prompt.md`.
 
 Open a pull request against a feature branch. For new detection tests, include the reasoning (what fraud
 pattern it catches) and keep everything read-only.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).
