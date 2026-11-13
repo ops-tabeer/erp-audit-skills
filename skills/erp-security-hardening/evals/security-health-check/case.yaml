@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: security-health-check
+expected_outcome: |
+  report.md lists 10 prioritised fixes with exact Odoo menu paths/parameters or config lines, covers 2FA, admin sprawl, shared logins, audit trail/lock dates, bank reconciliation and server config, maps to current standards (e.g. NIST 800-63B-4, not 90-day rotation), and prints no secrets.

@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: design-cash-refund-controls
+expected_outcome: |
+  design.md has a risk→control→Odoo location→test table, requires server-side checks (requester≠approver≠payer, refund channel matches original payment, cap at payable, no double payment, attachment, lock dates), and does not modify code.

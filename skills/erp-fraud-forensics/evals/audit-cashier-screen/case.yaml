@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: audit-cashier-screen
+expected_outcome: |
+  findings.md names specific entries for the cashier, separates proven vs probable vs to-verify amounts, does not claim guilt without evidence, and works read-only.
